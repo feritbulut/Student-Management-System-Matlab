@@ -1,0 +1,17 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.slx~
+*.mdl~
+
+# MEX files
+*.mex*
+
+# Simulink project and cache files
+slprj/
+work/
+
+# Performance and diagnostic reports
+*_ert_rtw/
+*_grt_rtw/
+* .p
